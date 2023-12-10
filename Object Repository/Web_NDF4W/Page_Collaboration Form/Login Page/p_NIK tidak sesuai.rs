@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_NIK tidak sesuai</name>
+   <tag></tag>
+   <elementGuidId>97d7d175-7ae5-46c4-b574-a0fef592af32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appToasterContainer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ndf4w-toastMessageWrap-117 > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f5e5dec7-e1be-483e-bd1c-52af54572355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NIK tidak sesuai</value>
+      <webElementGuid>7b5ba7be-2ddb-47c3-84a3-0cde1a49429e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appToasterContainer&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;ndf4w-toastMessageWrap-117&quot;]/p[1]</value>
+      <webElementGuid>19dc8248-5dc1-4826-afe8-2625fca08f9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appToasterContainer']</value>
+      <webElementGuid>c0f9e3d6-76a5-4b0c-8629-fb62b1de8843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>c733b4b2-769a-4521-94ec-043d8688126b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'NIK tidak sesuai' or . = 'NIK tidak sesuai')]</value>
+      <webElementGuid>88568772-eefe-47c8-8530-9eaf40defbee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

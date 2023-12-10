@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Tinjau Ulang Informasi</name>
+   <tag></tag>
+   <elementGuidId>5b2ec4b1-24b2-4e52-9264-3f156789c6b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/section/div/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c343984d-a747-4e9f-bd26-cf25c0153e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tinjau Ulang Informasi</value>
+      <webElementGuid>25bc305e-97e2-4833-8f6e-2f8ad0aa3faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/section[1]/div[1]/div[@class=&quot;container mainLayoutWrap&quot;]/div[1]/div[@class=&quot;ndf4w-headerInfo-130&quot;]/h2[1]</value>
+      <webElementGuid>dcaf29c7-4374-45a3-9d2a-e124bbc29375</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/section/div/div/div/div/h2</value>
+      <webElementGuid>d8906488-3c98-44a2-9116-1d1af5aa4ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>4dc23727-4adc-4894-9243-aa92dc6c087f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Tinjau Ulang Informasi' or . = 'Tinjau Ulang Informasi')]</value>
+      <webElementGuid>ed51933c-51ad-490c-bce1-09a9a704c8ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

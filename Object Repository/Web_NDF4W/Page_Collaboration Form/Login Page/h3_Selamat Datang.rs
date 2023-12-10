@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Selamat Datang</name>
+   <tag></tag>
+   <elementGuidId>20adabb8-af00-43dc-99e4-ee3927b44fdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.ndf4w-headings-585.ndf4w-headings-d1-605.ndf4w-h3-585</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>32f61eba-1245-4da7-b3c4-816907517875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ndf4w-headings-585 ndf4w-headings-d1-605 ndf4w-h3-585</value>
+      <webElementGuid>97bdc0bd-2629-48fe-a258-54e56f1c876c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat Datang</value>
+      <webElementGuid>a511d3db-e585-486f-93d1-2a6132fbfda2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/section[1]/div[@class=&quot;ndf4w-surveyorLogin-600&quot;]/div[@class=&quot;container mainLayoutWrap ndf4w-surveyorLoginWrp-601&quot;]/div[@class=&quot;ndf4w-loginTitleWrp-601&quot;]/h3[@class=&quot;ndf4w-headings-585 ndf4w-headings-d1-605 ndf4w-h3-585&quot;]</value>
+      <webElementGuid>5a5de2be-a4e8-4dae-9263-a1a1d1ff12a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='']</value>
+      <webElementGuid>ec4ffa52-2fa4-4bec-bca3-08e830b4c565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div/div/div[2]/h3</value>
+      <webElementGuid>8fab9cda-c325-439e-b82f-52699c5420bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>78d37dc8-9ab7-4a50-a3ea-101270e90ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Selamat Datang' or . = 'Selamat Datang')]</value>
+      <webElementGuid>3d93cccb-25d3-419c-8bfb-f9c69441476a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
